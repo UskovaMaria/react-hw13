@@ -30,11 +30,9 @@ button {
   background: silver;
 }
 
-.menu {}
 .menu__list {
   display: flex;
 }
-.menu__item {}
 .menu__link {
   display: block;
   padding: 15px;
@@ -55,13 +53,11 @@ button {
   padding: 50px 15px;
 }
 
-.posts {}
 .posts__title {
   padding-bottom: 10px;
   margin-bottom: 10px;
   border-bottom: 1px solid silver;
 }
-.posts__list {}
 .post {
   margin: 5px;
   padding: 10px;
